@@ -1,3 +1,3 @@
 # git_test
 
-Hello Odin!
+Practiciing to use git commands in the terminal - staging, commiting, pushing.
